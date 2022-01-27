@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # For perform background job
-gem 'sidekiq', '~> 4.0'
+gem 'sidekiq', '~> 6.4'
 
 
 group :development, :test do
